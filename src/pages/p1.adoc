@@ -1,0 +1,23 @@
+
+=== Content 1
+
+Lorem ipsum.
+
+Lorem ipsum.
+
+Lorem ipsum.
+
+Lorem ipsum.
+
+Links:
+
+* <<p2.adoc#, p1 p2 link>>
+* <<p2.adoc#_content_2, p1 p2-content2 link>>
+
+=== Test
+
+Lorem ipsum.
+
+Lorem ipsum.
+
+Lorem ipsum.

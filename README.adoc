@@ -1,0 +1,3 @@
+= Example
+
+Example to reproduce link:https://github.com/asciidoctor/asciidoctor/issues/3276[asciidoctor/asciidoctor #3276]

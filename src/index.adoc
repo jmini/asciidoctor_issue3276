@@ -1,0 +1,44 @@
+
+== Adoc example
+
+Links:
+
+* Test <<pages/p1.adoc#, index p1 link>>
+* Test <<pages/p1.adoc#_test, index p1-Test link>>
+* Test <<pages/p2.adoc#_content_2, index p2-content2 link>>
+
+include::pages/p1.adoc[]
+
+include::pages/p2.adoc[]
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
+
+xxx
